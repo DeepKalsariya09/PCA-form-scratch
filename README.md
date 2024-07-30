@@ -1,11 +1,12 @@
 # PCA-form-scratch
 PCA(Principal Component Analysis) is a fundamental technique in machine learning and statistics used for dimensionality reduction, which transforms high-dimensional data into a lower-dimensional space while preserving as much variance as possible.
 
-Principle component is a projected vector from higher dimension to lower which has higher variance than other projected vectors.
+## Overview
+1. Calculating the covariance matrix of the original features.
+2. Decomposing this matrix into eigenvectors and eigenvalues.
+3. Sorting eigenvectors by their eigenvalues to identify principal components.
 
-Methodology involves calculating covariance matrix of original features than covariance matrix is decomposed into eigenvectors and eigenvalues, then by sorting eigenvectors with its eigen value we can find eigenvectors that covers most variance, that will be our principle component.
-
-Here I have demonstrated the application of PCA on the MNIST dataset, specifically focusing on digits 4, 7, and 8.
+This project demonstrates PCA on the MNIST dataset, by using few digits.
 
 ## Effect of number of Principle Components used:
 Original Images
