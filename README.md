@@ -40,9 +40,14 @@ Run the script:
 python perceptron.py
 ```
 
-##WORKFLOW
+## WORKFLOW
 1. Data Loading and Pre-rocessing
 2. Covariance Matrix Calculation
 3. Eigenvalue and Eigenvector Computation
 4. Select Principle Components and Reconstruct Image
-5. Visualize variance explained by each principal component.
+5. Visualize result
+
+## Results
+1. Reconstructed Images
+2. Variance by each principal component
+3. Cumulative variance
