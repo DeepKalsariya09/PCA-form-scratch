@@ -12,7 +12,7 @@ This project demonstrates PCA on the MNIST dataset, by using few digits.
 
 Clone the repository:
 ```bash
-git clone https://github.com/yourusername/PCA-from-scratch.git
+git clone https://github.com/DeepKalsariya09/PCA-from-scratch.git
 cd perceptron-from-scratch
 ```
 
